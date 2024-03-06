@@ -6,3 +6,4 @@ kaggle.json
 # Ignore input
 inputs/
 inputs/malaria_dataset/cell_images/
+inputs/malaria_dataset/cell_images/validation/Parasitized/
