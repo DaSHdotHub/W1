@@ -5,3 +5,4 @@ kaggle.json
 .devcontainer/
 # Ignore input
 inputs/
+inputs/malaria_dataset/cell_images/
